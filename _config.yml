@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: RISC-V 開発環境の構築方法
+description: gcc-riscvをaptで入れるページ
+lang: ja
+google_analytics: UA-175541149-1
